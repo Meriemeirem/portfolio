@@ -737,7 +737,7 @@ function App() {
                 <textarea name="message" rows={5} placeholder="Tell me about your project or opportunity." />
               </label>
               <button type="button" className="primary-btn form-btn">Contact me</button>
-              <p className="form-note">This form is ready to be connected to a backend or email service later.</p>
+              {/* <p className="form-note">This form is ready to be connected to a backend or email service later.</p> */}
             </form>
           </div>
         </section>
