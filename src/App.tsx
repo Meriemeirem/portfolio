@@ -433,7 +433,7 @@ function App() {
             </div>
             <div className="flagship-proof">
               <div className="project-media" aria-label="GED project visual placeholder">
-                <strong></strong>
+                <strong>anonymized GED projects</strong>
               </div>
               <div className="flagship-metrics">
                 <div><strong>11K+</strong><span>documents migrated</span></div>
